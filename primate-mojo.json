@@ -1,9 +1,9 @@
 {
-    "name": "Sacrificed Primate #5",
+    "name": "Sacrificed Primate #4",
     "symbol": "CSK",
-    "description": "Fifth sacrifice by UwDegens",
+    "description": "Seventh sacrifice by Mojo Crypto. https://twitter.com/Mojo_Crypto_BTC",
     "seller_fee_basis_points": 1000,
-    "image": "https://raw.githubusercontent.com/UnderSand/Yang-Primate/main/UPDATEYANG.png",
+    "image": "https://raw.githubusercontent.com/UnderSand/primate-mojo/main/primate.jpeg",
     "external_url": "",
     "attributes": [
         {
@@ -14,14 +14,18 @@
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/UnderSand/Yang-Primate/main/UPDATEYANG.png",
+                "uri": "https://raw.githubusercontent.com/UnderSand/primate-mojo/main/primate.jpeg",
                 "type": "image/png"
             }
         ],
         "creators": [
             {
                 "address": "49B58UCHRco3UdHoboCNd3GjACB52iAbRg945GriZvnH",
-                "share": 100
+                "share": 50
+            }  
+            {
+                "address": "Bd8iF7Zxi5eEwH7D9jH3gB8rqzPYWhcf64Nken4jKaDJ",
+                "share": 50
             }
         ]
     }
