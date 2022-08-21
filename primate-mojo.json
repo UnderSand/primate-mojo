@@ -3,7 +3,7 @@
     "symbol": "CSK",
     "description": "Seventh sacrifice by Mojo Crypto. https://twitter.com/Mojo_Crypto_BTC",
     "seller_fee_basis_points": 1000,
-    "image": "https://raw.githubusercontent.com/UnderSand/primate-mojo/main/primate.jpeg",
+    "image": "https://raw.githubusercontent.com/UnderSand/primate-mojo/main/primate.png",
     "external_url": "",
     "attributes": [
         {
@@ -14,7 +14,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/UnderSand/primate-mojo/main/primate.jpeg",
+                "uri": "https://raw.githubusercontent.com/UnderSand/primate-mojo/main/primate.png",
                 "type": "image/png"
             }
         ],
